@@ -37,5 +37,5 @@ int main() {
     ->delete[] is used to deallocate arrays allocated with new[].
     ->delete is used to deallocate single objects allocated with new.
     */
-
+	return 0;
 }
